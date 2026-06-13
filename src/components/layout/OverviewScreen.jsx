@@ -117,7 +117,7 @@ export default function OverviewScreen({ setActive, icp, onStartTour }) {
             lineHeight: 1.7,
           }}>
             The Land Port Authority of India's next-generation border intelligence platform —
-            protecting sovereignty, facilitating trade, and powering India's 23 integrated check posts.
+            protecting sovereignty, facilitating trade, and powering India's 12 integrated check posts.
           </p>
 
           {/* CTA */}
